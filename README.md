@@ -1,1 +1,1 @@
-# ders11
+# Bu proje ders içerisinde yapılan uygulamalarda hocayla beraber ilerlemek için oluşturulmuştur.
